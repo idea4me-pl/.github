@@ -5,8 +5,8 @@
 
 ---
 
-**IDEA4ME.PL Spółka z ograniczoną odpowiedzialnością**
-ul. Składowa 5, 62-023 Żerniki
-KRS 0001251289 · NIP 777-347-19-52 · REGON 545055625
-Sąd Rejonowy Poznań - Nowe Miasto i Wilda w Poznaniu, IX Wydział Gospodarczy Krajowego Rejestru Sądowego
+**IDEA4ME.PL Spółka z ograniczoną odpowiedzialnością**<br>
+ul. Składowa 5, 62-023 Żerniki<br>
+KRS 0001251289 · NIP 777-347-19-52 · REGON 545055625<br>
+Sąd Rejonowy Poznań - Nowe Miasto i Wilda w Poznaniu, IX Wydział Gospodarczy Krajowego Rejestru Sądowego<br>
 Kapitał zakładowy: 5 000,00 zł
