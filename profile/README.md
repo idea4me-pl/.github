@@ -1,6 +1,7 @@
 <p align="center"><img src="idea4me_logo.png" alt="IDEA4ME" width="360"></p>
 
-<p align="center"><b>AI, automatyzacja, marketing cyfrowy i IT dla małych i średnich firm</b><br>
+<p align="center"><b>AI, automation, digital marketing and IT for small and medium-sized businesses</b><br>
+<b>AI, automatyzacja, marketing cyfrowy i IT dla małych i średnich firm</b><br>
 <a href="https://idea4me.pl">idea4me.pl</a> · <a href="https://cybulski.ai">cybulski.ai</a> · <a href="mailto:biuro@idea4me.pl">biuro@idea4me.pl</a></p>
 
 ---
